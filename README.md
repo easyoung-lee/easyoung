@@ -8,7 +8,7 @@
   
 미래 Ai Engineer가 되기위해 천천히 한걸음씩 나아가고자 자기개발에 열중하고 있습니다.  
   
-자세한 설명은 아래 내용과 함께 간단한 [포트폴리오(github blog)](https://https://easyoung-lee.github.io) 참고해주시면 감사하겠습니다.  :smile:  
+자세한 설명은 아래 내용과 함께 간단한 [포트폴리오(github blog)](https://easyoung-lee.github.io) 참고해주시면 감사하겠습니다.  :smile:  
 
 
 **배움에 끝은 없으며 현재를 살아가는 지금, 우리는 늘 최선을 다할 뿐이다.(All we have is now !) ❤**
