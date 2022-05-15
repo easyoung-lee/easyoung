@@ -1,13 +1,17 @@
 # 미래 Ai Engineer를 꿈꾸는 개발자, 이영준입니다.
 
-[![xscode](https://img.shields.io/badge/Available%20on-xs%3Acode-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAAlUlEQVR42uzXSwqAMAwE0Mn9L+3Ggtgkk35QwcnSJo9S+yGwM9DCooCbgn4YrJ4CIPUcQF7/XSBbx2TEz4sAZ2q1RAECBAiYBlCtvwN+KiYAlG7UDGj59MViT9hOwEqAhYCtAsUZvL6I6W8c2wcbd+LIWSCHSTeSAAECngN4xxIDSK9f4B9t377Wd7H5Nt7/Xz8eAgwAvesLRjYYPuUAAAAASUVORK5CYII=)](https://xscode.com/daattali/beautiful-jekyll)
-[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+> Remind 4C - Creativity, Collaboration, Communication, Critical Thinking
 
-> Remind 4C - 
+**안녕하세요 :)**  
+  
+혼자 공부하며 관련 지식과 경험을 쌓기위해 노력하고 있는 개발자, 이영준입니다.  
+  
+미래 Ai Engineer가 되기위해 천천히 한걸음씩 나아가고자 자기개발에 열중하고 있습니다.  
+  
+자세한 설명은 아래 내용과 함께 간단한 [포트폴리오(github blog)](https://https://easyoung-lee.github.io) 참고해주시면 감사하겠습니다.  :smile:  
 
-**Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com) to see it in use, or see [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
 
-**If you enjoy Beautiful Jekyll, please consider [supporting me](https://github.com/sponsors/daattali) for over 5 years of development (and to unlock rewards!) ❤**
+**배움에 끝은 없으며 현재를 살아가는 지금, 우리는 늘 최선을 다할 뿐이다.(All we have is now !) ❤**
 
 ## Table of contents
 
