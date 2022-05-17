@@ -5,9 +5,8 @@
 </div>
 
 > Remind 4C - Creativity, Collaboration, Communication, Critical Thinking
-<img src="https://user-images.githubusercontent.com/45550607/164703284-7d3f4220-ab5c-40e8-b28a-dfb870af9ed9.png" align="right" width="300px">
-
 <br>
+<img src="https://user-images.githubusercontent.com/45550607/164703284-7d3f4220-ab5c-40e8-b28a-dfb870af9ed9.png" align="right" width="300px">
 
 **안녕하세요 :)**  
   
