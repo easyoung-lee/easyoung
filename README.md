@@ -68,12 +68,7 @@
 
 </div>
 </details>
-<br>
 
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ## 💻 My Stack
