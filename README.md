@@ -7,7 +7,7 @@
 <br>
 
 **안녕하세요 :)**  
-<img src="https://github.com/easyoung-lee/easyoung-lee.github.io/blob/be513fb41017bec7410e3dd1502ff8b63de64b18/images/Read_me_image1.png" align="right" width="300px">  
+<img src="https://github.com/easyoung-lee/easyoung-lee.github.io/blob/be513fb41017bec7410e3dd1502ff8b63de64b18/images/Read_me_image1.png" align="right" width="290px">  
 
 혼자 공부하며 지식과 경험을 쌓기위해 노력하고 있는 개발자, 이영준입니다.  
 
