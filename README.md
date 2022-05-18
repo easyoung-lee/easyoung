@@ -7,13 +7,13 @@
 <br>
 
 **안녕하세요 :)**  
-<img src="https://github.com/easyoung-lee/easyoung-lee.github.io/blob/be513fb41017bec7410e3dd1502ff8b63de64b18/images/Read_me_image1.png" align="right" width="290px">  
+<img src="https://github.com/easyoung-lee/easyoung-lee.github.io/blob/be513fb41017bec7410e3dd1502ff8b63de64b18/images/Read_me_image1.png" align="right" width="300px"> 
 
 혼자 공부하며 지식과 경험을 쌓기위해 노력하고 있는 개발자, 이영준입니다.  
 
-미래 Ai Engineer가 되기위해 천천히 한걸음씩 나아가고자 자기개발에 열중하고 있습니다.  
+미래 Ai Engineer를 목표로 천천히 한걸음씩 나아가고자 자기개발에 열중하고 있습니다.  
   
-자세한 설명은 아래 내용과 함께 [포트폴리오(github blog)](https://easyoung-lee.github.io) 참고해주시면 감사하겠습니다.  :smile:  
+자세한 설명은 아래 내용과 함께 [Github Blog](https://easyoung-lee.github.io) 참고해주시면 감사하겠습니다.  :smile:  
 
 ***
 **배움에 끝은 없으며, 현재를 살아가는 지금! 최선을 다할 뿐이다.  
