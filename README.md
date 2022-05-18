@@ -1,7 +1,5 @@
 <div align=left>
-  
   <h1>미래 Ai Engineer를 꿈꾸는 개발자, 이영준입니다.</h1>
-  
 </div>
 
 > Remind 4C - Creativity, Collaboration, Communication, Critical Thinking
