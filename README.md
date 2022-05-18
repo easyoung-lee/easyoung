@@ -4,7 +4,7 @@
 
 > Remind 4C - Creativity, Collaboration, Communication, Critical Thinking
 <br>
-<img src="https://github.com/easyoung-lee/easyoung-lee.github.io/blob/be513fb41017bec7410e3dd1502ff8b63de64b18/images/Read_me_image1.png" align="right" width="330px">
+<img src="https://github.com/easyoung-lee/easyoung-lee.github.io/blob/be513fb41017bec7410e3dd1502ff8b63de64b18/images/Read_me_image1.png" align="right" width="340px">
 
 **안녕하세요 :)**  
   
